@@ -1,0 +1,17 @@
+h1 {
+  font-size: 40px;
+  font-family: serif;
+  text-align: center;
+}
+.main{
+  font-size: 24px;
+}
+.main:hover{
+  font-size: 26px;
+}
+.sub{
+  font-size: 16px;
+}
+.sub:hover{
+  font-size: 18px;
+}
